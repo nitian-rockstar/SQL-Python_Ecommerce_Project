@@ -50,7 +50,3 @@ The dataset comprises multiple CSV files containing information on customers, or
 ## Conclusion
 
 This project demonstrates the effective integration of SQL and Python to perform in-depth data analysis in an e-commerce context, providing actionable insights to drive business decisions.
-
----
-
-Feel free to customize this description to better fit your project's specifics. 
